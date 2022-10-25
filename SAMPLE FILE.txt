@@ -2,3 +2,4 @@ I'm groot
 I'm King
 I'm Azure Cloud king
 I'm Azure DEVOPS ENGINEER
+THIS IS THE DEVOPS PRACTICE IN VS CODE
